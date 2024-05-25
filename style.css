@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: arial;
+
+}
+.site-init{
+    margin-top: 200px;
+    color: gray;
+    text-align: center;
+    height: 100px;
+}
+.btn-convert{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+}
+.result{
+    margin-top: 10px;
+}
